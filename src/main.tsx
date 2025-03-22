@@ -7,7 +7,7 @@ import { TonConnectUIProvider } from './library/tonconnect-ui/src';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <TonConnectUIProvider manifestUrl="http://localhost:5173/tonconnect-manifest.json">
+    <TonConnectUIProvider manifestUrl="https://shchitlyak.github.io/ton-labs/tonconnect-manifest.json">
       <AppDegen/>
     </TonConnectUIProvider>
   </StrictMode>,
