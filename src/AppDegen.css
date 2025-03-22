@@ -1,0 +1,19 @@
+.ton-connect {
+    button {
+        border-radius: 2px;
+        background-color: rgb(25, 77, 161);
+        box-shadow: 0 0 4px rgb(0, 0, 0, 1);
+    }
+}
+
+.flex-header {
+    flex-basis: fit-content;
+}
+
+.flex-content {
+    flex: 1
+}
+
+.text-app {
+    text-shadow: 1px 1px 1px black;
+}
