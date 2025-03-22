@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
-    "@tonconnect/ui": "^2.0.12",
+    "@tonconnect/ui": "2.0.13-beta.0",
     "@vitejs/plugin-basic-ssl": "^2.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
